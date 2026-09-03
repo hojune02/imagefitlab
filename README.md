@@ -1,6 +1,6 @@
-# SnapFit
+# ImageFitLab
 
-SnapFit is a private, frontend-only image studio. It resizes, compresses, converts, rotates, flips, and adjusts images entirely in the browser using the Canvas API.
+ImageFitLab is a private, frontend-only image studio. It resizes, compresses, converts, rotates, flips, and adjusts images entirely in the browser using the Canvas API.
 
 ## Run locally
 
