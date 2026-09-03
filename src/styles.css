@@ -41,7 +41,7 @@ button, [role="button"] { -webkit-tap-highlight-color: transparent; }
 }
 .intro { max-width: 560px; }
 .eyebrow { display: inline-block; padding: 7px 11px; background: #ffcc33; border: 2px solid #171717; box-shadow: 3px 3px 0 #171717; text-transform: uppercase; letter-spacing: .12em; font-size: .8rem; font-weight: 900; }
-.intro h1 { margin: 24px 0; font-size: clamp(3.5rem, 7vw, 6.5rem); line-height: .9; letter-spacing: -.075em; font-weight: 950; }
+.intro h1 { margin: 24px 0; font-size: clamp(3.5rem, 7vw, 6.5rem); line-height: .9; letter-spacing: -.05em; font-weight: 950; }
 .intro h1 em { color: #2557ff; font-style: normal; }
 .intro > p { max-width: 530px; color: #5f5b54; font-size: 1.15rem; line-height: 1.75; font-weight: 600; }
 .chips { margin-top: 28px; display: flex; flex-wrap: wrap; gap: 8px; }
