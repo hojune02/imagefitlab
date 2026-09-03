@@ -42,7 +42,7 @@ function formatBytes(bytes: number) {
 
 function outputName(name: string, format: OutputFormat) {
   const base = name.replace(/\.[^/.]+$/, "") || "image";
-  return `${base}-snapfit.${extensions[format]}`;
+  return `${base}-imagefitlab.${extensions[format]}`;
 }
 
 export default function App() {
@@ -200,7 +200,7 @@ export default function App() {
       <header className="topbar">
         <div className="brand">
           <span className="logo"><Sparkles size={20} /></span>
-          <span><strong>SnapFit</strong><small>Image studio, minus the upload</small></span>
+          <span><strong>ImageFitLab</strong><small>Image studio, minus the upload</small></span>
         </div>
         <span className="privacy"><ShieldCheck size={17} /> 100% on-device</span>
       </header>
